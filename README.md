@@ -3,12 +3,16 @@
 
 ## Informações Gerais
 Coloque aqui os seus dados
-- Nome: 
-- Matricula:
+- Nome: Guilherme Miranda Presot
+- Matricula: 912190
 
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print da tela de inspeção do meu navegador](imagens/image.png)
+
+## Tela do resultado apresentado no navegador para o arquivo index.html
+![Print da tela html](imagens/site.png)
 
 
 ## Orientações sobre Linguagem MarkDown
